@@ -1,0 +1,15 @@
+#uvote{
+	background-color: green;
+	color: white
+}
+#dvote{
+	background-color: red;
+	color:white;
+}
+body{
+text-align: center;
+
+}
+img{
+	border-radius: 10px;
+}
